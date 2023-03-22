@@ -7,7 +7,7 @@ The UI design is from Vijay Bhuva on Behance - https://dribbble.com/shots/133958
 
 ## Screenshots
 
-![app shot](loginUi.png?raw=true 'Superhero Card App')
+![app shot](loginUi.png?raw=true 'Login Signup App')
 
 ## Installation
 
