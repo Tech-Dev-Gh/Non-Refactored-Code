@@ -5,7 +5,7 @@ The UI design is from Vijay Bhuva on Behance - https://dribbble.com/shots/133958
 
 ## Screenshots
 
-![app shot](cosmetic app.png?raw=true 'Superhero Card App')
+![app shot](cosmeticApp.png?raw=true 'Form Beauty App')
 
 ## Installation
 
