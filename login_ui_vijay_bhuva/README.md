@@ -1,16 +1,21 @@
-# login_ui_vijay_bhuva
+# Login UI
 
-A new Flutter project.
+This application is a cross-platform mobile app built with Flutter, designed to provide users with a stylish and intuitive interface for logging in or creating an account. The app includes login and sign-up screens and is optimized for different screen sizes. It is focused solely on providing the UI code for the application.
 
-## Getting Started
+Overall, this app is a great example of how Flutter can be used to create visually appealing and interactive mobile applications that can run on multiple platforms.
+The UI design is from Vijay Bhuva on Behance.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+![app shot](loginUi.png?raw=true 'Superhero Card App')
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Installation
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Clone this repository to your local machine
+    Install Flutter
+    Run flutter pub get to install dependencies
+    Run flutter run to launch the app
+
+## Usage
+
+Upon launching the app, users will see a login screen with input fields and a login button. There is a text button also that leads the user to the sign up screen.
